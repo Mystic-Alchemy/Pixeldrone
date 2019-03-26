@@ -1,3 +1,5 @@
+# This repository is archived, it probably won't be worked on forever, when it will be revived, that will be with a full renewal and possibly completely different code.
+
 # Pixeldrohne
 
 Dieser Discord-Bot ist eigentlich aus einem schlechten Scherz entstanden, hat sich aber mittlerweile in ein vollständiges Projekt entwickelt.
